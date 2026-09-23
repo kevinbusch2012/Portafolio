@@ -2388,6 +2388,98 @@ img {
 
 
 
+
+
+
+
+/* =========================================
+
+   FRASE
+
+========================================= */
+
+
+
+.quote {
+
+
+
+    text-align: center;
+
+
+
+    background: var(--background-light);
+
+
+
+}
+
+
+
+
+
+.quote blockquote {
+
+
+
+    max-width: 800px;
+
+
+
+    margin: 0 auto;
+
+
+
+    font-size: 26px;
+
+
+
+    font-style: italic;
+
+
+
+    color: white;
+
+
+
+    line-height: 1.5;
+
+
+
+}
+
+
+
+
+
+.quote-author {
+
+
+
+    margin-top: 25px;
+
+
+
+    color: var(--blue);
+
+
+
+    font-size: 14px;
+
+
+
+    letter-spacing: 1px;
+
+
+
+}
+
+
+
+
+
+
+
 /* =========================================
 
    FOOTER
